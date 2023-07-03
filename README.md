@@ -3,10 +3,10 @@
 AutoEvaluation :
 13 / 20
 
-#trois endpoints (ou routes ou verbes) d’authentification en POST: une verbe de login / création de compte et logout (3 pts)
+#trois endpoints d’authentification (3 pts)
 
 
-#4 endpoints CRUD (Create, Read, Update, Delete avec une BDD) (4 pts)
+#4 endpoints CRUD (4 pts)
 
 #Il faut passer un token valide qui a été généré lors de l’authentification dans le header (2 pts)
 
